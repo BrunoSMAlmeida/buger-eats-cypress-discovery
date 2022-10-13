@@ -1,5 +1,3 @@
-
-
 describe('home page', ()=>{
     it('App deve estar online', ()=>{ // Teste para saber se o site/app tá online
         cy.viewport(1440, 900) // Muda a resolução do site pra uma resolução mais condizente com a nossa tela
